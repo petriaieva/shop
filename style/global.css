@@ -1,0 +1,25 @@
+body {
+	color: black;
+	font: 400 14px "Open Sans",Arial,Helvetica,sans-serif;
+    text-decoration: none;
+	background-color: #FAF9F9;
+	background-image: url(bg.jpg);
+	background-position: center 40PX;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.row {
+    margin-top: 5px;
+    margin-right: -15px;
+    margin-left: -15px;}
+a,h2 {
+    color: #3c067b;
+    
+}
+a:hover {
+    color: black;
+    
+}
+.error {
+			color: red;
+		}
